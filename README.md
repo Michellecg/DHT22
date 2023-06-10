@@ -12,7 +12,7 @@ La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en est
 
 Para realizar esta practica necesitas lo siguiente
 
-- [SIMULADOR WOKWI](https://https://wokwi.com/)
+- [SIMULADOR WOKWI](https://wokwi.com/)
 - Tarjeta ESP32
 - Sensor DHT22
 
@@ -28,7 +28,7 @@ Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https:
 
 ### Instrucciones de preparación de entorno 
 
-1. Al ingresar a la página de [WOKWI](https://https://wokwi.com/) se selecciona la tarjeta ESP32.
+1. Al ingresar a la página de [WOKWI](https://wokwi.com/) se selecciona la tarjeta ESP32.
 
 2. Una vez seleccionado la tarjeta ```Esp32```, en la parte izquierda se encuentra la pestaña de código donde se agrega lo siguiente:
 
