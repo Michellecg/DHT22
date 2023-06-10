@@ -23,7 +23,7 @@ Para realizar esta practica necesitas lo siguiente
 
 ### Requisitos previos
 
-Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https://https://wokwi.com/).
+Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https://wokwi.com/).
 
 
 ### Instrucciones de preparación de entorno 
